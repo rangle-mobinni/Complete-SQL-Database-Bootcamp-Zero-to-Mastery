@@ -25,7 +25,7 @@ SELECT * FROM employees;
 /*
 * DB: Employees
 * Table: employees
-* Question: Who is the oldest employee? (Use the analytical function MAX)
+* Question: Who is the oldest employee? (Use the analytical function MIN)
 */
 
 SELECT * FROM employees;
